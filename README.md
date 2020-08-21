@@ -24,6 +24,7 @@ GitHubWike
 ------------
 - 👌 指令 Commands
 ```
+"authorList": ["chenjj100419"],
 ```
 ------------
 - ⭕ 配置文件 ConfigFile

@@ -13,7 +13,9 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 @Mod(
         modid = Generaltechnology.MOD_ID,
         name = Generaltechnology.MOD_NAME,
-        version = Generaltechnology.VERSION
+        version = Generaltechnology.VERSION,
+        clientSideOnly = true,
+        dependencies = ""
 )
 public class Generaltechnology {
 

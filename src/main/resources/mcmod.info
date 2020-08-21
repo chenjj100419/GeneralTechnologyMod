@@ -2,14 +2,14 @@
     {
         "modid": "generaltechnology",
         "name": "Generaltechnology",
-        "description": "TheModRuningAtOfForge14.23.5.2854_1.12.2",
+        "description": "The mod for Minecraft.",
         "version": "${version}",
         "mcversion": "${mcversion}",
-        "url": "chenjj100419.github.io/WebBlogHtml",
+        "url": "https://chenjj100419.github.io/WebBlogHtml",
         "updateUrl": "chenjj100419.github.io/WebBlogHtml/src/download/mods/Generaltechnology.html",
-        "authorList": ["chenjj100419"],
+        "authorList": ["chenjj100419","Emerald craft Team"],
         "credits": "",
-        "logoFile": "",
+        "logoFile": "generaltechnology:/logo.png",
         "screenshots": [],
         "dependencies": []
     }
